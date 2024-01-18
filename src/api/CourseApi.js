@@ -1,0 +1,43 @@
+const Courses=[{
+    id:"1",
+    title:"Web development",
+    image:require("../../assets/web1.jpg"),
+    description:"lorfyg ftft drdf tft tdrtdf ftf  ftf  fyy  iu gy uig yf ty f dy  ftft cghcg",
+    course1:"HTML",
+    course2:"CSS",
+course3:"Javascript",
+price:4000,
+},
+{
+    id:"2",
+    title:"Graphic DEsigning",
+    image:require("../../assets/graphic.jpg"),
+    description:"lorfyg ftft drdf tft tdrtdf ftf  ftf  fyy  iu gy uig yf ty f dy  ftft cghcg",
+    course1:"photoshop",
+    course2:"figma",
+course3:"Adobe XD",
+price:3000,
+},
+{
+    id:"3",
+    title:"Coding Fundamentals",
+    image:require("../../assets/coding.jpg"),
+    description:"lorfyg ftft drdf tft tdrtdf ftf  ftf  fyy  iu gy uig yf ty f dy  ftft cghcg",
+    course1:"Javascript",
+    course2:"Algorithm",
+course3:"Data structure",
+price:2000,
+},
+{
+    id:"4",
+    title:"Ethical hacking",
+    image:require("../../assets/testing.jpg"),
+    description:"lorfyg ftft drdf tft tdrtdf ftf  ftf  fyy  iu gy uig yf ty f dy  ftft cghcg",
+    course1:"Testing",
+    course2:"Exploitation",
+course3:"Linux OS",
+price:7000,
+},
+];
+
+export default Courses;
